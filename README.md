@@ -1,2 +1,2 @@
 # demo-training
-create a demo for training
+create a demo for training.
